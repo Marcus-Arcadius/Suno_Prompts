@@ -1,0 +1,484 @@
+\\ The Ultimate Suno Mastering Prompt List //
+
+\\ Created by LAGI with the help of ChatGPT //
+
+Prompts:
+
+[MASTERED] [FINAL MIXDOWN] [PRO MIX] [PROFESSIONALLY MIXED] [HIGH-QUALITY MIX] [RADIO-READY] [COMMERCIAL SOUND] [MODERN PRODUCTION] [INDUSTRY STANDARD MIX] [LOUDNESS BALANCED] [LIMITED PEAKS] [DYNAMIC RANGE PRESERVED] [FULL SPECTRUM SOUND] [FLAT RESPONSE] [WELL-DEFINED MIX] [NO CLIPPING] [CLEAN MIX] [CLEAN AUDIO] [NO NOISE] [NO BACKGROUND NOISE] [NO ARTIFACTS] [NO CLUTTER] [NO FREQUENCY CLASH] [POLISHED SOUND] [SONIC BALANCE] [HIGH FIDELITY] [WIDE STEREO IMAGE] [STEREO BALANCED] [DEPTH AND SPACE] [3D SOUNDSTAGE] [INSTRUMENT SEPARATION] [EACH ELEMENT DEFINED] [INSTRUMENTAL CLARITY] [BALANCED EQ] [TRANSPARENT EQ] [SMOOTH EQ CURVE] [CRISP HIGHS] [HIGH-END SPARKLE] [NO HARSH TREBLE] [SMOOTH HIGH END] [WARM MIDS] [CLEAR MIDRANGE] [NO MUDDY MIDS] [TIGHT LOW END] [CLEAN LOW END] [CONTROLLED SUB BASS] [NO BOOMY LOWS] [NO MUDDY BASS] [PUNCHY BASS] [CLEAR LEAD VOCALS] [VOCALS CUT THROUGH MIX] [VOCAL PRESENCE BOOSTED] [FOCUSED VOCAL EQ] [NO VOCAL MUDDINESS] [AIRY VOCALS] [VOCAL CLARITY] [SIBILANCE CONTROLLED] [TAILORED REVERB] [NATURAL REVERB] [PRODUCTION DEPTH] [NO FREQUENCY MASKING] [CLEAR MIX SEPARATION] [MULTIBAND BALANCE] [LOW MID CLEANUP] [MIDRANGE DEFINITION] [NO EQ BUILDUP] [HIGH-END AIR] [PUNCHY TRANSIENTS] [SNAP IN THE MIX] [GLOSSY FINISH] [SPECTRAL BALANCE] [NO AUDIO BLEED] [VOCAL CENTERED] [MIXED FOR HEADPHONES] [MIXED FOR SPEAKERS] [HARMONIC BALANCE] [TUNED REVERB DECAY] [TAILORED DELAY DEPTH] [DRY/WET BALANCE OPTIMIZED] [EFFECTS BALANCED] [NATURAL INSTRUMENT SPACE] [PRECISE AUTOMATION] [DYNAMIC MICROCONTROL] [INTELLIGENT COMPRESSION] [PARALLEL COMPRESSION USED] [NO PUMPING EFFECT] [BALANCED STEREO SPREAD] [MID/SIDE EQ APPLIED] [PHASE-ALIGNED ELEMENTS] [CLARITY IN ARRANGEMENT] [COHERENT MIX] [FOCUSED SOUNDSTAGE] [CONSISTENT LOUDNESS] [ALIGNED TRANSIENT RESPONSE] [INTENTIONAL ATMOSPHERE] [SPACE AND AIR MAINTAINED] [DETAILED INSTRUMENT TEXTURE] [VINTAGE POLISH OPTIONAL] [CLEAN MODERN GLOSS] [SMOOTH FREQUENCY ROLLOFF] [SEAMLESS MIX FADES] [LOW-END ENERGY CONTROLLED] [VOCAL WIDTH CONTAINED] [LUSH MIX BODY] [SUBTLE SPATIAL ENHANCEMENT] [FREQUENCY DENSITY OPTIMIZED] [CONTROLLED DYNAMIC SWELLS] [WELL-PANNED ELEMENTS] [NON-COMPETING FREQUENCIES] [HIGH-END CONTROLLED SHIMMER] [EQ’D FOR EMOTION] [ENHANCED SONIC TRANSLATION] [INTENTIONAL SILENCE AND SPACE] [NON-INTRUSIVE EFFECTS] [FREQUENCY ENERGY DISTRIBUTED] [VOCALS BLEND WITH INSTRUMENTS] [REVERB TAIL CONTAINED] [VOCAL STACK BALANCED] [STEREO WIDTH NATURALLY MAINTAINED] [ROOM RESPONSE ACCURATE] [PROFESSIONAL DYNAMIC CONTOUR] [MULTI-FREQUENCY SATURATION][ATMOSPHERIC REVERB] [REVERB CONTROLLED] [REVERB DEPTH] [CLEAN ROOM SOUND] [SPATIAL CLARITY] [NO PHASING ISSUES] [NO OVERCOMPRESSION] [CLEAN TRANSIENTS] [MODERN SOUND] [SMOOTH TRANSITIONS] [SONIC TEXTURE BALANCED] [PRODUCTION POLISHED] [LOW-END FOCUS] [VOCAL LAYERING CONTROLLED] [WELL-COMPRESSED MIX] [VOCALS NOT DROWNED] [MASTER BUS TUNED] [ACCURATE LEVELING] [LOW-END DEFINED] [HIGH-END DETAILED] [REVERB NOT WASHED OUT] [TONAL BALANCE OPTIMIZED] [CLEAN STEM INTEGRATION] [MIX GLUE APPLIED] [HEADROOM PRESERVED] [WET/DRY BALANCED] [HARD PAN AVOIDED] [NO MASKING IN LOW MIDS] [NO RESONANT FREQUENCIES] [FULL MIX COHESION] [NO AUDIO SMEARING] [CRISP TRANSIENT RESPONSE] [NO OVERLAPPING FREQUENCIES] [VOCAL INTELLIGIBILITY] [NO SPECTRAL CLUTTER] [SONIC TRANSPARENCY] [RESONANCE CONTROLLED] [CROSSOVER FREQUENCIES BALANCED] [FREQUENCY POCKETS DEFINED] [REVERB PLACEMENT PRECISE] [FINAL MASTER CLEANED] [MIX READY FOR RELEASE] [BASS TRANSLATES ACROSS SYSTEMS] [VOCALS SITTING PERFECTLY] [REVERB TAIL TUNED] [FREQUENCY MASKING RESOLVED] [CROSS-STEREO BALANCE] [PEAK REDUCTION APPLIED] [LOUDNESS CONSISTENT ACROSS SECTIONS] [NO DIGITAL HARSHNESS] [MIDRANGE ENERGY BALANCED] [SPATIAL DEPTH CONTROLLED] [ELEMENTS PLACED IN 3D FIELD] [NO PHASE SMEARING] [REVERB EQ’D] [VOCAL TONALITY MATCHED TO INSTRUMENTS] [LOW FREQS PHASE-ALIGNED] [STEREO MONO COMPATIBLE] [DRY SIGNAL RESPECTED] [WET FX BLENDED SUBTLY] [DYNAMIC BALANCE ACHIEVED] [FINAL OUTPUT MONITORED] [CLEAN INTRO AND OUTRO] [MIX BREATHES NATURALLY] [VOCALS NEVER BURIED] [TEXTURE PRESERVED IN MASTER] [LOW SHELF BALANCED] [TOP-END SMOOTHED] [BASS TIGHT, NOT BLOATED] [VOCAL AIR ENHANCED] [INTENTIONAL USE OF SATURATION] [STEREO IMAGE CENTERED WHERE NEEDED][VOCALS BALANCED IN MIX] [ACCURATE TRANSIENT CONTROL] [HIGH-FREQUENCY ENERGY BALANCED] [BASS DOESN’T OVERSHADOW] [TOP-END SHIMMER CONTROLLED] [REVERB SITS NATURALLY] [MIX ENERGY CONSISTENT] [DYNAMIC CRESTS MAINTAINED] [CLARITY IN VOCAL BREATHS] [RESONANT BUILDUP AVOIDED] [LOW-FREQ ENERGY FOCUSED] [SPATIAL DEPTH UNCLUTTERED] [WARMTH IN MID-BASS] [NO OVEREXPOSED SIBILANCE] [TIGHT KICK-TO-BASS RELATIONSHIP] [HARMONIC LAYERS PRESERVED] [VOCALS SIT AT FOREFRONT] [DIMENSIONAL CLARITY IN MIX] [REVERB SPACE NOT COMPETING] [CROSS-FREQ TRANSLATION] [FINAL OUTPUT SMOOTHED] [FREQUENCY ENERGY BALANCED] [VOCALS NEITHER TOO DRY NOR TOO WET] [PERCUSSION NOT OVERPOWERED] [MIX ENGINEERED FOR DEPTH] [ATMOSPHERE INTENTIONALLY CONTROLLED] [ELEMENTS DISTINGUISHABLE IN DENSE PASSAGES] [ENERGY CONTROLLED IN DROPS] [LOW-END ROLL-OFF REFINED] [NO HISS, HUM, OR POP] [SONIC PRESERVATION] [UNCOMPRESSED FULL RANGE] [IMPECCABLE DETAILING] [FINAL MASTER REFLECTS INTENT] [FOCUSED MIX EVOLUTION] [BALANCED WAVEFORMS] [ACCURATE PANNING] [MASTERING OPTIMIZED FOR STREAMING] [EXCEPTIONAL TRANSLATION ACROSS FORMATS] [NO LOUDNESS WAR] [VIBRANT DYNAMICS MAINTAINED] [MASTERING FOR SPEAKERS AND HEADPHONES] [FULL-BANDWIDTH PRESERVATION] [FREQUENCY BREADTH ENHANCED] [STEREO ENHANCEMENT WITHOUT DISTORTION] [NO ADVERSE COMPRESSION ARTIFACTS] [ARTICULATE STEREO FIELD] [SONIC EVOLUTION DRIVEN] [MIXING INTO MASTERED SOUND] [HIGH-END CLARITY MAINTAINED] [FREQUENCY SKEW ELIMINATED] [UNIFIED SONIC VISION] [DYNAMIC RANGE PRESERVED IN MASTER] [GUITAR/BASS FOCUS ALIGNED] [AMPLIFIED LOW-END PRESENCE] [OPTIMAL LOUDNESS LEVELS] [NO CLIPPING OR DISTORTION] [PREDICTABLE MASTERING TRANSLATION] [ZERO LACK OF IMPACT] [PRECISE ENERGY TRANSLATION] [DEEPER IMPACT IN LOW END] [CLEAN, CRISP PERCEPTION] [TRANSPARENT PROCESSING] [SUBTLE NOISE REDUCTION] [PREVENTIVE DYNAMIC REFINEMENT] [HARMONIC SUBTLE ENHANCEMENT] [TIGHTLY CONTROLLED TRANSIENT RESPONSE] [SONIC DEFINITION IN ALL ELEMENTS] [MASTER TUNED FOR LISTENER IMPACT] [CLEAR SPATIAL ARRANGEMENTS] [ACCURATE DYNAMIC ADJUSTMENTS] [DYNAMIC POP AND EDM MASTERING] [AGILE AND NATURAL SOUND] [FULL-FIDELITY FORMULATION] [REFINED EQ THAT EMERGES] [DYNAMICS WITHOUT FADING] [SEAMLESS SOUND TRANSITIONS] [FULL RANGE INCLUSIVE] [OPTIMAL VOLUME GAIN] [NO OVERPROCESSING] [PUSHED EMOTIONAL IMPACT] [TUNED FOR CAR AUDIO TRANSLATION] [DEFINED SPATIAL LANDSCAPE] [CLEAN INTRO AND OUTRO TRANSITIONS] [INTENTIONAL BASS SLAM] [SAVORED TOP END] [SYNTH PRESENCE SUSTAINED] [SEAMLESS LOUDNESS TRANSITIONS] [FLAWLESS PHASE ALIGNMENT] [REVERB SPACE TUNED] [SILENT SPACE CLARITY] [HARMONIC DETAIL IN THE LOW-END] [FREQUENCY-PROOF LIMITER USE] [DYNAMIC BREATHING IN MASTERING] [SMOOTH INTERWEAVING TEXTURES] [BASS PUNCH CLARITY] [NO ARTIFACT NOISES FROM MASTERING] [REALISTIC PUNCH IN TRANSITIONS] [AUTOMATED VOLUME ADJUSTMENTS PRECISE] [MASTERING CREATIVITY APPROACH] [DYNAMIC CONTROL IN ALL RANGE] [PRECISION IN FINAL LAYERING] [TOTAL CONSISTENCY MAINTAINED] [WELL-ORCHESTRATED SOUNDSTAGE] [TRANSLUCENT SOUNDSTAGE] [BALANCE WITHOUT SACRIFICE] [FINAL MIXDOWN CLEAN-UP] [SAVORED MID-RANGE CLARITY] [NO OPAQUE FREQUENCY CLASHING] [EFFECTIVE CLARITY IN VOCAL SPACE] [ALL ELEMENTS SPACE UTILIZATION] [TUNED FOR CRISPNESS IN DETAIL] [HARMONIC ACCURACY ACHIEVED] [NO INTRUSIVE PEAKS] [NO DULLNESS IN MASTER] [CLEAN STEREO DEPTH CONTROL] [PUNCHY BASS WITHOUT BLEED] [FREQUENCY-BALANCED LOW END] [NO DULL MIDS] [SPATIAL DEFINITION WITHOUT AGGRAVATION] [NO AUDIO PUMPS OR GLITCHES] [FULL-WIDTH MASTERING] [THREE-DIMENSIONAL SOUNDCLIP] [PERFORMANCE-DRIVEN ENGINEERING] [PERFECTLY-FINISHED MASTER] [INSTRUMENT SEPARATION PERFECTED] [SPECIFIC MASTERING FOR LIVE SOUND] [STRIKING VOCAL IMMERSION] [SUSPENSE BUILT THROUGH TRANSITIONS] [ACTIVE MASTERY PRESERVING MOTION] [FULL STRENGTH ENERGY CONTROLS] [EXTENDED HIGH-END CLARITY] [NO OVERLAPPING ELEMENTS] [MINIMAL STEREO EXPANSION ON FINAL TUNE] [DETAILED STUDIO APPROACH] [PUNCH AND SPACE IN COMPOSITION] [ZERO NOISY MASTERY CLIPS] [BALANCED LOW TO HIGH EMOTION] [REVERB AND STEREO CONSISTENTLY FUSED] [CONSISTENT PUNCH TRANSITIONS] [MASTERING FOR THE FUTURE] [CLEAR BASS TRANSITIONS] [GRADUAL ENERGY RELEASE] [WARMTH WITH COHERENCE] [SYNTH AND RHYTHMIC SUPPORT ENHANCED] [NATURAL SONIC FLOW] [TIGHT LOW-END DELIVERY] [SEAMLESS SOUND BLEND] [PREDICTABLE MASTERING]
+
+Prompts With Descriptions:
+
+
+1 - [3D SOUNDSTAGE]: A mix that creates a three-dimensional feel with depth, width, and height.
+
+2 - [ACCURATE DYNAMIC ADJUSTMENTS] – Dynamic adjustments are made with precision to preserve the track's natural energy, ensuring emotional peaks and valleys are well-defined.
+
+3 - [ACCURATE PANNING] – Each element is panned with precision to create a wide and spacious stereo image, while avoiding overlap or phase issues.
+
+4 - [ACCURATE TRANSIENT CONTROL] – Ensuring that transient sounds (like drums and plucked instruments) are tight and clear without distortion or smearing.
+
+5 - [AGILE AND NATURAL SOUND] – The track maintains a natural yet agile sound, where every element feels lively and engaging, without any unnatural tightness.
+
+6 - [AIRY VOCALS]: The vocals have a light, ethereal quality that adds space to the mix.
+
+7 - [AMPLIFIED LOW-END PRESENCE] – Amplifying the presence of the low-end elements like bass and kick drums, ensuring they have an impactful yet controlled presence in the mix.
+
+8 - [ARTICULATE STEREO FIELD] – Ensuring that the stereo field is articulate, where each element is distinct and clearly positioned across the left and right channels.
+
+9 - [ATMOSPHERE INTENTIONALLY CONTROLLED] – Carefully managing the atmospheric elements in the mix, ensuring they provide space without muddying or distracting from the main elements.
+
+10 - [AUTOMATED VOLUME ADJUSTMENTS PRECISE] – Volume adjustments throughout the track are automated with precision, allowing for smooth transitions and dynamic shifts.
+
+11 - [BALANCE WITHOUT SACRIFICE] – Achieving a perfect balance across all elements of the track without sacrificing the importance of any part, creating a truly harmonious sound.
+
+12 - [BALANCED EQ]: The frequency response is evenly distributed across the track.
+
+13 - [BALANCED LOW TO HIGH EMOTION] – The emotional energy is balanced throughout the track, ensuring the lows are as impactful as the highs.
+
+14 - [BALANCED WAVEFORMS] – Ensuring the waveforms of all elements are balanced and visually coherent in the final mix, contributing to a harmonious sound.
+
+15 - [BASS DOESN’T OVERSHADOW] – Ensuring that the bass frequency does not overwhelm other elements in the mix, but rather complements them to create a balanced sound.
+
+16 - [BASS PUNCH CLARITY] – The bass is given punch and clarity, making it strong and distinct without overwhelming the mix or becoming too dominant.
+
+17 - [BASS TIGHT, NOT BLOATED] – The bass is clean and defined, with no muddiness or unnecessary bloat, maintaining clarity across all frequency ranges.
+
+18 - [BASS TRANSLATES ACROSS SYSTEMS] – Ensuring the bass frequencies translate well across all types of sound systems, from headphones to large PA systems.
+
+19 - [CLARITY IN VOCAL BREATHS] – Making sure the subtle vocal breaths are audible and add to the emotional depth of the performance without distracting.
+
+20 - [CLEAN AUDIO]: Pristine, undistorted sound with no interference or unwanted noise.
+
+21 - [CLEAN INTRO AND OUTRO TRANSITIONS] – The transitions at the beginning and end of the track are clear, ensuring smooth entrances and exits without abruptness or unnecessary noise.
+
+22 - [CLEAN INTRO AND OUTRO] – Creating smooth and clean transitions at the beginning and end of the track, providing a professional feel.
+
+23 - [CLEAN LOW END]: Low frequencies are well-defined without excess rumble or mud.
+
+24 - [CLEAN MIX]: A mix without unwanted noise, distortion, or muddiness.
+
+25 - [CLEAN, CRISP PERCEPTION] – The track has a clean, crisp perception, with all elements clearly defined and distinct, even in the densest sections.
+
+26 - [CLEAR BASS TRANSITIONS] – The low-end frequencies shift smoothly, with no harsh jumps or dips, maintaining a natural progression in the track.
+
+27 - [CLEAR LEAD VOCALS]: The lead vocals are prominent and easy to hear, standing out in the mix.
+
+28 - [CLEAR MIDRANGE]: The midrange is distinct and uncluttered, allowing vocals and instruments to stand out.
+
+29 - [CLEAR MIX SEPARATION]: Each element in the track is easily distinguishable from the others.
+
+30 - [CLEAR SPATIAL ARRANGEMENTS] – Each instrument and vocal is spatially arranged in the mix to maximize clarity and depth, without any elements competing for space.
+
+31 - [COMMERCIAL SOUND]: A mix that has the clean, appealing sound of mainstream music.
+
+32 - [CONSISTENT PUNCH TRANSITIONS] – Smooth transitions between sections of the song that keep the energy intact, ensuring no loss of punch.
+
+33 - [CONTROLLED SUB BASS]: Sub bass is carefully managed to avoid overwhelming the mix.
+
+34 - [CRISP HIGHS]: High frequencies are clear and sharp without being harsh.
+
+35 - [CROSS-FREQ TRANSLATION] – Ensuring that frequencies translate well across different sound systems, preserving the balance and clarity of all elements.
+
+36 - [CROSS-STEREO BALANCE] – Maintaining a balanced stereo image, ensuring elements are panned effectively to give the track a full, dynamic sound.
+
+37 - [CROSSOVER FREQUENCIES BALANCED] – Proper balance of crossover points between frequency bands, ensuring no overlap or gaps in the sound spectrum.
+
+38 - [DEEPER IMPACT IN LOW END] – Ensuring the low-end frequencies hit with deeper, richer impact, creating a strong and balanced foundation for the track.
+
+39 - [DEFINED SPATIAL LANDSCAPE] – The spatial arrangement of the track is defined, making sure each instrument and vocal is placed in a way that fills the sonic space without clutter.
+
+40 - [DEPTH AND SPACE]: The track has dimension, giving a sense of space and atmosphere.
+
+41 - [DETAILED STUDIO APPROACH] – Refined attention to each element in the track, ensuring clarity and precision during production and mixing.
+
+42 - [DIMENSIONAL CLARITY IN MIX] – Creating a sense of space and depth in the mix, allowing every element to breathe and occupy its own dimensional space.
+
+43 - [DRY SIGNAL RESPECTED] – Respecting the balance of the dry signal (without effects), making sure it remains clear and present in the mix.
+
+44 - [DRY/WET BALANCE OPTIMIZED]: The balance between dry (unprocessed) and wet (effected) signals is carefully controlled.
+
+45 - [DYNAMIC BALANCE ACHIEVED] – A dynamic balance where all elements have room to breathe while maintaining the overall flow and energy of the track.
+
+46 - [DYNAMIC BREATHING IN MASTERING] – The mastering retains room for dynamic "breathing," allowing sections of the song to swell and contract without unnatural compression.
+
+47 - [DYNAMIC CONTROL IN ALL RANGE] – Control over dynamics is maintained across all frequency ranges, ensuring no part of the track is either too quiet or too loud in an unnatural way.
+
+48 - [DYNAMIC CRESTS MAINTAINED] – Keeping the dynamic peaks and valleys intact for emotional impact, avoiding overly squashed dynamics.
+
+49 - [DYNAMIC POP AND EDM MASTERING] – Tailored for pop and EDM genres, the mastering enhances punch and energy while maintaining clarity and dynamic range.
+
+50 - [DYNAMIC RANGE PRESERVED IN MASTER] – The dynamic range is preserved in the master to ensure that the track has natural loud and soft moments, maintaining the energy and emotional depth.
+
+51 - [DYNAMIC RANGE PRESERVED]: Ensures the track has both soft and loud elements for emotional impact.
+
+52 - [DYNAMICS WITHOUT FADING] – Ensuring that the dynamics in the track remain alive and prominent, avoiding any sense of fading or loss of energy throughout the song.
+
+53 - [EACH ELEMENT DEFINED]: All components of the track are clearly distinguishable from each other.
+
+54 - [EFFECTS BALANCED]: Audio effects are applied with careful consideration so as not to dominate the mix.
+
+55 - [ELEMENTS DISTINGUISHABLE IN DENSE PASSAGES] – Ensuring that even in dense, complex sections, every element of the mix is distinguishable and has its own place.
+
+56 - [ELEMENTS PLACED IN 3D FIELD] – The mix is designed with a sense of space, positioning elements in a three-dimensional soundscape for an immersive listening experience.
+
+57 - [ENERGY CONTROLLED IN DROPS] – Managing the energy in sections with dramatic drops, ensuring a smooth transition and impactful delivery.
+
+58 - [EXCEPTIONAL TRANSLATION ACROSS FORMATS] – The mix translates well across all formats (stereo, mono, headphones, speakers), maintaining its integrity.
+
+59 - [FINAL MASTER CLEANED] – Final polishing to remove any imperfections or inconsistencies, delivering a polished and professional sound.
+
+60 - [FINAL MASTER REFLECTS INTENT] – The final master reflects the original artistic intent, ensuring the sound is as envisioned by the artist and producers.
+
+61 - [FINAL MIXDOWN]: The completed version of a track with all elements mixed and balanced.
+
+62 - [FINAL OUTPUT MONITORED] – Constantly monitoring the final output to ensure no issues arise during the final stages of production.
+
+63 - [FINAL OUTPUT SMOOTHED] – Finalizing the track with a smooth, polished finish that avoids sharp edges or harshness in the sound.
+
+64 - [FLAT RESPONSE]: A mix with equal emphasis on all frequencies, with no exaggeration or dips.
+
+65 - [FLAWLESS PHASE ALIGNMENT] – All elements in the track are phase-aligned perfectly to avoid any unwanted phase cancellations and to maintain a coherent sound.
+
+66 - [FOCUSED MIX EVOLUTION] – The mix evolves smoothly, maintaining focus on key elements throughout the track, ensuring clarity and progression.
+
+67 - [FOCUSED VOCAL EQ]: The EQ applied to the vocals enhances clarity and presence.
+
+68 - [FREQUENCY BREADTH ENHANCED] – Enhancing the frequency breadth to give the mix a fuller, richer sound, with attention to both low-end and high-end clarity.
+
+69 - [FREQUENCY ENERGY BALANCED] – Ensuring that energy is evenly distributed across the frequency spectrum, without excessive buildup or gaps.
+
+70 - [FREQUENCY MASKING RESOLVED] – Clearing up any frequency masking issues where one sound might hide another, ensuring each element is heard clearly.
+
+71 - [FREQUENCY POCKETS DEFINED] – Identifying and carving out distinct spaces within the frequency spectrum to ensure each element occupies its own clear space.
+
+72 - [FREQUENCY SKEW ELIMINATED] – Eliminating any skewed or unnatural frequency imbalances, ensuring the track sounds even and balanced across the entire spectrum.
+
+73 - [FREQUENCY-PROOF LIMITER USE] – The limiter applied during the mastering phase is designed to handle all frequencies without causing clipping or distortion, ensuring a clean and powerful final sound.
+
+74 - [FULL RANGE INCLUSIVE] – The track maintains its full frequency range, from deep sub-bass to high treble, ensuring no frequency is neglected and all areas are well-represented.
+
+75 - [FULL SPECTRUM SOUND]: A mix that covers the entire frequency range, from deep bass to crisp highs.
+
+76 - [FULL-BANDWIDTH PRESERVATION] – All frequencies across the entire spectrum are preserved, ensuring no part of the audio is lost or suppressed.
+
+77 - [FULL-FIDELITY FORMULATION] – The mix is full of rich detail across all frequencies, maintaining fidelity and preserving every sonic nuance throughout the track.
+
+78 - [GLOSSY FINISH]: A smooth, polished sound with a touch of shine or brilliance.
+
+79 - [GRADUAL ENERGY RELEASE] – A controlled build-up of energy that peaks at the right moments for dramatic impact without overwhelming the listener.
+
+80 - [GUITAR/BASS FOCUS ALIGNED] – Ensuring that the guitar and bass frequencies are balanced and don’t conflict, providing a solid foundation without competing for space.
+
+81 - [HARMONIC BALANCE]: The track maintains an even distribution of harmonic content for a pleasant listening experience.
+
+82 - [HARMONIC DETAIL IN THE LOW-END] – The low-end frequencies are harmonically rich and well-defined, giving them weight and presence without clouding the mix.
+
+83 - [HARMONIC LAYERS PRESERVED] – Maintaining the harmonic complexity of the track, allowing the various layers of sound to remain distinct and clear.
+
+84 - [HARMONIC SUBTLE ENHANCEMENT] – Enhancing the harmonic content of the track subtly to give it richness and depth without overpowering the overall sound.
+
+85 - [HIGH FIDELITY]: Audio that faithfully represents the original sound, with minimal distortion.
+
+86 - [HIGH-END AIR]: A bright, airy quality in the high frequencies that adds lift and clarity to the mix.
+
+87 - [HIGH-END CLARITY MAINTAINED] – Ensuring the high frequencies remain clear and detailed without becoming harsh or overbearing, maintaining the clarity in the mix.
+
+88 - [HIGH-END SPARKLE]: A bright, clean high-end that adds brilliance to the mix.
+
+89 - [HIGH-FREQUENCY ENERGY BALANCED] – Managing high-frequency content to prevent excessive brightness, ensuring the top end is smooth and natural.
+
+90 - [HIGH-QUALITY MIX]: A well-balanced mix with a clear, detailed sound.
+
+91 - [IMPECCABLE DETAILING] – Every element is meticulously detailed, ensuring a polished and professional end result with no flaws.
+
+92 - [INDUSTRY STANDARD MIX]: A mix that adheres to the typical expectations of the music industry.
+
+93 - [INSTRUMENT SEPARATION]: Each instrument is clearly defined and placed in its own space within the mix.
+
+94 - [INSTRUMENTAL CLARITY]: Each instrument can be heard clearly without muddiness.
+
+95 - [INTENTIONAL BASS SLAM] – The bass is given extra emphasis when needed, with a controlled and intentional impact that adds power and depth to the mix.
+
+96 - [INTENTIONAL USE OF SATURATION] – Carefully adding saturation to enhance warmth, depth, and character to the mix without causing distortion.
+
+97 - [LIMITED PEAKS]: Control of peak levels to prevent clipping or distortion.
+
+98 - [LOUDNESS BALANCED]: The track is leveled with optimal loudness across all frequencies.
+
+99 - [LOUDNESS CONSISTENT ACROSS SECTIONS] – Ensuring that the track maintains a consistent loudness level throughout, with no sudden volume jumps or drops.
+
+100 - [LOW FREQS PHASE-ALIGNED] – Aligning low frequencies to prevent phase cancellation and ensure that the bass sounds tight and powerful.
+
+101 - [LOW MID CLEANUP]: Removing unnecessary low midrange to avoid muddiness.
+
+102 - [LOW SHELF BALANCED] – Managing the low-end shelf frequencies to ensure the bass is powerful but not overwhelming or too boomy.
+
+103 - [LOW-END ROLL-OFF REFINED] – Refined control over the low-end roll-off, ensuring the bass frequencies don’t overwhelm the mix or create unnecessary rumble.
+
+104 - [LOW-FREQ ENERGY FOCUSED] – Ensuring that the low-end energy (bass, kick drums) is focused and controlled to prevent distortion or unwanted rumble.
+
+105 - [MASTER TUNED FOR LISTENER IMPACT] – The final master is tuned to ensure it has the greatest emotional and sonic impact on the listener, capturing their attention immediately.
+
+106 - [MASTERED]: Finalized audio after the mixing process, ready for distribution.
+
+107 - [MASTERING CREATIVITY APPROACH] – The mastering process is approached creatively, allowing for artistic decisions to be made while still preserving technical integrity.
+
+108 - [MASTERING FOR SPEAKERS AND HEADPHONES] – Ensuring that the master translates well both on speakers and headphones, providing a consistent listening experience.
+
+109 - [MASTERING FOR THE FUTURE] – The sound is future-proofed with modern production techniques, ensuring it will remain relevant across platforms and technologies.
+
+110 - [MASTERING OPTIMIZED FOR STREAMING] – The final master is specifically optimized for streaming platforms, ensuring it sounds great across various devices and settings.
+
+111 - [MIDRANGE DEFINITION]: The midrange frequencies are clear, allowing important musical elements to shine.
+
+112 - [MIDRANGE ENERGY BALANCED] – Ensuring that midrange frequencies have a balanced presence without dominating the track, creating clarity and definition.
+
+113 - [MIX BREATHES NATURALLY] – The track has space and room for each element to stand out, preventing it from feeling cluttered or too tight.
+
+114 - [MIX ENERGY CONSISTENT] – Maintaining a steady energy level throughout the track, ensuring the dynamics ebb and flow naturally without becoming too flat or erratic.
+
+115 - [MIX ENGINEERED FOR DEPTH] – Creating a mix with substantial depth, where all elements have room to breathe and are placed thoughtfully within the 3D soundstage.
+
+116 - [MIX READY FOR RELEASE] – The mix is perfected and ready for distribution, whether it’s for streaming, radio, or live performance.
+
+117 - [MIXED FOR HEADPHONES]: The mix is optimized for listening through headphones, ensuring a balanced and clear sound.
+
+118 - [MIXED FOR SPEAKERS]: The mix is tailored for playback on speakers, ensuring clarity in a larger space.
+
+119 - [MIXING INTO MASTERED SOUND] – The mix is balanced so that when it is mastered, it maintains its clarity, depth, and impact without losing any of the original character.
+
+120 - [MODERN PRODUCTION]: A contemporary sound with current trends in mixing and mastering.
+
+121 - [MULTIBAND BALANCE]: Balancing multiple frequency bands for a well-rounded sound across the entire spectrum.
+
+122 - [NATURAL INSTRUMENT SPACE]: Instruments are placed in the mix with appropriate space, making the overall sound cohesive and clear.
+
+123 - [NATURAL REVERB]: Reverb is used subtly and blends seamlessly with the mix to create a natural sense of space.
+
+124 - [NATURAL SONIC FLOW] – The arrangement flows organically from one section to another, ensuring no jarring changes and a smooth listening experience.
+
+125 - [NO ADVERSE COMPRESSION ARTIFACTS] – Ensuring that any compression applied is smooth and transparent, without introducing any unwanted artifacts such as pumping or distortion.
+
+126 - [NO ARTIFACT NOISES FROM MASTERING] – The mastering process is clean, with no unwanted noise artifacts like distortion, clipping, or digital harshness.
+
+127 - [NO ARTIFACTS]: The audio is free from unnatural or unwanted sounds caused by processing.
+
+128 - [NO AUDIO BLEED]: No leakage of sound between different tracks or channels.
+
+129 - [NO BACKGROUND NOISE]: Absence of any unwanted sounds in the track.
+
+130 - [NO BOOMY LOWS]: The bass is not overpowering or excessive.
+
+131 - [NO CLIPPING OR DISTORTION] – Ensuring that the mix is free from clipping and distortion, preserving the integrity and transparency of the sound.
+
+132 - [NO CLIPPING]: No distortion from overloading the audio signal.
+
+133 - [NO CLUTTER]: The mix is free of excessive or overlapping elements.
+
+134 - [NO DIGITAL HARSHNESS] – Avoiding digital artifacts such as harshness or distortion, maintaining a smooth, natural sound.
+
+135 - [NO EQ BUILDUP]: EQ adjustments are made to prevent excessive energy build-up in any one frequency range.
+
+136 - [NO FREQUENCY CLASH]: Different elements in the track occupy their own distinct frequency ranges.
+
+137 - [NO FREQUENCY MASKING]: No overlapping frequencies that obscure important elements in the mix.
+
+138 - [NO HARSH TREBLE]: The treble is smooth and pleasant, avoiding harshness or shrillness.
+
+139 - [NO HISS, HUM, OR POP] – Ensuring that there’s no unwanted noise like hiss, hum, or pops in the final mix, delivering a clean and professional sound.
+
+140 - [NO LOUDNESS WAR] – Ensuring the track maintains a natural dynamic range, avoiding excessive loudness that compromises quality for the sake of volume.
+
+141 - [NO MUDDY BASS]: The bass frequencies are clean and clear, with no overlap into the midrange.
+
+142 - [NO MUDDY MIDS]: Mid frequencies are clean and defined, without excessive overlap or confusion.
+
+143 - [NO OVEREXPOSED SIBILANCE] – Managing sibilance in vocals to ensure clarity without harsh or overemphasized "s" sounds that could be distracting.
+
+144 - [NO OVERPROCESSING] – No over-processing occurs in the mix or mastering, ensuring that every element retains its natural character without excessive treatments.
+
+145 - [NO PHASE SMEARING] – Avoiding phase issues that can cause the mix to lose clarity or depth, ensuring everything remains sharp and clear.
+
+146 - [NO VOCAL MUDDINESS]: The vocals are clear, with no build-up of low or mid frequencies causing muddiness.
+
+147 - [OPTIMAL LOUDNESS LEVELS] – Ensuring that the track reaches the appropriate loudness level without clipping or distorting, meeting industry standards.
+
+148 - [OPTIMAL VOLUME GAIN] – Ensuring the volume gain is optimized, with the track hitting peak loudness without any unwanted clipping or distortion.
+
+149 - [PEAK REDUCTION APPLIED] – Control of any audio peaks to ensure no clipping or distortion, maintaining clarity and consistency.
+
+150 - [PERCUSSION NOT OVERPOWERED] – Keeping percussion elements in check so they support the track without dominating or distracting from the main elements.
+
+151 - [POLISHED SOUND]: A refined, well-crafted audio that is clear and pleasant.
+
+152 - [PRECISE ENERGY TRANSLATION] – Ensuring that the energy in the mix is translated consistently and accurately, creating a dynamic, emotionally engaging experience.
+
+153 - [PRECISION IN FINAL LAYERING] – The final layering of the track is done with precision, ensuring that each element is placed where it serves the overall sound and flow best.
+
+154 - [PREDICTABLE MASTERING TRANSLATION] – Ensuring the track translates predictably to various platforms and systems without unpredictable shifts in sound quality.
+
+155 - [PREDICTABLE MASTERING] – The mastering process ensures the final output is consistent and predictable across different playback systems.
+
+156 - [PREVENTIVE DYNAMIC REFINEMENT] – Refining the dynamics in advance, preventing any issues from arising during the mastering phase, ensuring a polished result.
+
+157 - [PRO MIX]: A professionally mixed track with careful adjustments to balance and clarity.
+
+158 - [PRODUCTION DEPTH]: The track has a sense of space, with elements that are placed in layers or depths.
+
+159 - [PROFESSIONALLY MIXED]: Audio mixed by an experienced professional to industry standards.
+
+160 - [PUNCH AND SPACE IN COMPOSITION] – Ensuring the track has powerful energy when needed, while maintaining space for the elements to breathe and develop.
+
+161 - [PUNCHY BASS]: The bass has a strong, impactful presence without being too overpowering.
+
+162 - [PUNCHY TRANSIENTS]: Sharp and dynamic attacks from instruments or vocals are clearly heard in the mix.
+
+163 - [PUSHED EMOTIONAL IMPACT] – Techniques are employed to push the emotional impact of the track, whether through mixing choices, mastering, or dynamic control, making the song feel deeply engaging.
+
+164 - [RADIO-READY]: A polished mix suitable for radio broadcast, with proper loudness and clarity.
+
+165 - [REALISTIC PUNCH IN TRANSITIONS] – Transitions in the track are punchy and impactful, with a realistic sense of movement that draws the listener into the next section of the song.
+
+166 - [REFINED EQ THAT EMERGES] – The EQ curve is refined to enhance key frequencies, ensuring they emerge naturally and blend seamlessly within the track.
+
+167 - [RESONANCE CONTROLLED] – Managing resonant frequencies to avoid unwanted build-ups, ensuring smooth, clear sound across the mix.
+
+168 - [RESONANT BUILDUP AVOIDED] – Avoiding the buildup of unwanted resonances that could muddy the mix, particularly in low and mid frequencies.
+
+169 - [REVERB AND STEREO CONSISTENTLY FUSED] – Reverb and stereo elements are seamlessly integrated, creating depth and atmosphere while maintaining clarity.
+
+170 - [REVERB EQ’D] – Equalizing reverb to ensure it fits naturally within the track, adding depth without overwhelming the mix.
+
+171 - [REVERB PLACEMENT PRECISE] – Exact placement of reverb to create an atmosphere without muddying or cluttering the mix.
+
+172 - [REVERB SITS NATURALLY] – The reverb effect is applied in a way that feels organic and part of the track, not overpowering or too artificial.
+
+173 - [REVERB SPACE NOT COMPETING] – Ensuring that reverb doesn’t interfere with the clarity of other elements in the mix, maintaining a natural sense of space.
+
+174 - [REVERB SPACE TUNED] – The reverb used in the mix is tuned carefully, ensuring it adds depth without causing muddiness or confusion, enhancing the overall atmosphere.
+
+175 - [REVERB TAIL TUNED] – Fine-tuning the decay and length of reverb tails for a natural and controlled effect.
+
+176 - [SAVORED TOP END] – The top-end frequencies are carefully controlled to add shimmer and sparkle without becoming harsh or overwhelming, providing clarity and airiness.
+
+177 - [SEAMLESS LOUDNESS TRANSITIONS] – The track maintains consistent loudness across transitions, with no sudden jumps or drops that might disturb the listening experience.
+
+178 - [SEAMLESS SOUND BLEND] – All elements in the mix come together seamlessly, with no frequencies competing or clashing, resulting in a cohesive sound.
+
+179 - [SEAMLESS SOUND TRANSITIONS] – Transitions between sections of the track are seamless, with smooth movement from one part to the next, maintaining energy and flow.
+
+180 - [SIBILANCE CONTROLLED]: The harsh “s” sounds in vocals are tamed to avoid piercing the listener’s ears.
+
+181 - [SILENT SPACE CLARITY] – Even in the quieter sections, the space is clear, allowing for moments of silence or sparse instrumentation to be impactful and well-defined.
+
+182 - [SMOOTH EQ CURVE]: Equalization that is gradual and natural, without sharp changes.
+
+183 - [SMOOTH HIGH END]: A gentle, polished high-end frequency response.
+
+184 - [SMOOTH INTERWEAVING TEXTURES] – The textures in the track are smooth and well-interwoven, where each instrument and element complements the others without stepping on toes.
+
+185 - [SNAP IN THE MIX]: The elements in the track have an energetic and percussive quality.
+
+186 - [SONIC BALANCE]: The careful adjustment of frequencies to ensure a harmonious sound.
+
+187 - [SONIC DEFINITION IN ALL ELEMENTS] – Ensuring every element in the mix is clearly defined and has its own place in the sonic landscape.
+
+188 - [SONIC EVOLUTION DRIVEN] – The mix naturally evolves throughout the track, with each element developing in a way that enhances the overall progression.
+
+189 - [SONIC PRESERVATION] – Preserving the integrity and clarity of all sonic elements in the mix, ensuring nothing is lost in the mastering process.
+
+190 - [SPATIAL DEPTH CONTROLLED] – Managing the spatial depth of the track to ensure all elements have their own defined space within the stereo field.
+
+191 - [SPATIAL DEPTH UNCLUTTERED] – Maintaining depth in the mix by keeping elements spaced out and ensuring that each has its own clear place in the stereo field.
+
+192 - [SPECTRAL BALANCE]: A well-rounded mix with even distribution of frequencies across the spectrum.
+
+193 - [STEREO BALANCED]: A mix where the left and right stereo channels are balanced for a cohesive sound.
+
+194 - [STEREO ENHANCEMENT WITHOUT DISTORTION] – Increasing the stereo width for a more immersive experience without introducing distortion or phase issues.
+
+195 - [STEREO IMAGE CENTERED WHERE NEEDED] – Placing certain elements in the center of the stereo image where they are most effective, ensuring clarity and focus.
+
+196 - [STEREO MONO COMPATIBLE] – Making sure the mix translates well in both stereo and mono systems, maintaining clarity and balance no matter the playback.
+
+197 - [SUBTLE NOISE REDUCTION] – Using subtle noise reduction techniques to ensure there are no unwanted background noises or artifacts, maintaining a clean and clear sound.
+
+198 - [SYNTH AND RHYTHMIC SUPPORT ENHANCED] – Synths and rhythmic elements are emphasized in a way that adds fullness and support to the track.
+
+199 - [SYNTH PRESENCE SUSTAINED] – The synth elements in the track are sustained and audible, giving them a prominent presence without overshadowing other key elements.
+
+200 - [TAILORED DELAY DEPTH]: Delay effects are adjusted to create space without overwhelming the mix.
+
+201 - [TAILORED REVERB]: Reverb is carefully adjusted to fit the mix, adding space without overwhelming the sound.
+
+202 - [TEXTURE PRESERVED IN MASTER] – Maintaining the integrity and richness of the track’s textures, ensuring it’s not overly processed or flattened during mastering.
+
+203 - [TIGHT KICK-TO-BASS RELATIONSHIP] – Ensuring that the kick drum and bass are balanced, with no frequency clash, allowing both to be present and clear in the mix.
+
+204 - [TIGHT LOW END]: Low frequencies are controlled and focused, avoiding bloating.
+
+205 - [TIGHT LOW-END DELIVERY] – The bass is crisp, focused, and powerful, ensuring the low frequencies have a precise and defined delivery.
+
+206 - [TIGHTLY CONTROLLED TRANSIENT RESPONSE] – Ensuring that transient responses (like snare hits, cymbals) are controlled, with enough punch and clarity but without being overly sharp or harsh.
+
+207 - [TOP-END SHIMMER CONTROLLED] – Managing the shimmer and sparkle in the high frequencies, ensuring they add to the track without becoming piercing or unpleasant.
+
+208 - [TOP-END SMOOTHED] – The high-end frequencies are smoothed out for clarity, avoiding harshness or excessive brightness that could cause discomfort.
+
+209 - [TOTAL CONSISTENCY MAINTAINED] – The track maintains consistency in its tonal, dynamic, and spatial qualities from start to finish, ensuring a cohesive listening experience.
+
+210 - [TRANSLUCENT SOUNDSTAGE] – The soundstage has a translucent quality, allowing all elements to be clearly heard and understood, even in complex or dense sections.
+
+211 - [TRANSPARENT EQ]: EQ adjustments that are subtle and do not distort the natural sound.
+
+212 - [TRANSPARENT PROCESSING] – Any processing applied to the track is transparent, not affecting the original sound too much, but enhancing it in a subtle and professional way.
+
+213 - [TUNED FOR CAR AUDIO TRANSLATION] – The master is optimized for car audio systems, ensuring that the track sounds great even on speakers with varying sound characteristics.
+
+214 - [TUNED REVERB DECAY]: The reverb's tail is adjusted to suit the mix and create a natural atmosphere.
+
+215 - [UNCOMPRESSED FULL RANGE] – Ensuring the full dynamic range of the track is preserved, with no unnecessary compression that could flatten the sound.
+
+216 - [UNIFIED SONIC VISION] – All elements of the track come together to create a unified sound that supports the artist’s intended emotional and sonic vision.
+
+217 - [VIBRANT DYNAMICS MAINTAINED] – Preserving the natural dynamics in the track, allowing for energetic highs and subtle lows, ensuring emotional impact.
+
+218 - [VOCAL AIR ENHANCED] – Adding subtle air and presence to the vocals, making them feel natural and open, without being too sharp or sibilant.
+
+219 - [VOCAL CENTERED]: The lead vocals are positioned centrally in the stereo field.
+
+220 - [VOCAL CLARITY]: The vocals are crisp and understandable without distortion.
+
+221 - [VOCAL PRESENCE BOOSTED]: The vocals are given extra emphasis, making them stand out more in the mix.
+
+222 - [VOCAL TONALITY MATCHED TO INSTRUMENTS] – Ensuring the tonality of the vocals complements the instrumentation, resulting in a cohesive and balanced sound.
+
+223 - [VOCALS BALANCED IN MIX] – Ensuring the vocals are perfectly balanced in relation to the instrumental arrangement, sitting comfortably in the mix.
+
+224 - [VOCALS CUT THROUGH MIX]: The vocals are positioned to be clearly heard even with other instruments playing.
+
+225 - [VOCALS NEITHER TOO DRY NOR TOO WET] – Finding the perfect balance for the vocals, ensuring they’re present but not overly drenched in effects or too dry.
+
+226 - [VOCALS NEVER BURIED] – Ensuring that the vocals are always clearly audible, never lost or buried under other elements in the mix.
+
+227 - [VOCALS SIT AT FOREFRONT] – Ensuring that the vocals are at the forefront of the mix, but balanced with the instrumentation for an overall cohesive sound.
+
+228 - [VOCALS SITTING PERFECTLY] – Vocals are placed in the mix so that they’re clear, balanced, and never drowned out by other elements.
+
+229 - [WARM MIDS]: A rich and inviting midrange sound that adds depth to the track.
+
+230 - [WARMTH IN MID-BASS] – Adding warmth to mid-bass frequencies to avoid sounding thin, while ensuring they don't overpower the rest of the mix.
+
+231 - [WARMTH WITH COHERENCE] – The track retains warmth in its tone while maintaining coherence and balance across all elements.
+
+232 - [WELL-DEFINED MIX]: Clear separation of elements, making each part of the track easily identifiable.
+
+233 - [WELL-ORCHESTRATED SOUNDSTAGE] – The soundstage is well-orchestrated, with elements placed in a way that creates a clear, defined, and dynamic spatial experience.
+
+234 - [WET FX BLENDED SUBTLY] – Blending wet effects like reverb and delay subtly, ensuring they enhance rather than overwhelm the track.
+
+235 - [WIDE STEREO IMAGE]: The sound is spread across a wide stereo field for depth and spaciousness.
+
+236 - [ZERO LACK OF IMPACT] – The track is sonically powerful and emotionally impactful, with no compromise on clarity or presence.
+
+237 - [ZERO NOISY MASTERY CLIPS] – The mastering process eliminates any unwanted noise or distortion, resulting in a pristine, clean sound.
