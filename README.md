@@ -57,8 +57,8 @@ This collection is shared for educational and creative purposes. Please respect 
 
 ## 🔗 Related Resources
 
-- [Suno AI Official Website](https://suno.ai)
-- [Suno AI Documentation](https://help.suno.ai)
+- [Suno AI Official Website](https://suno.com)
+- [Suno AI Documentation](https://help.suno.com)
 
 ---
 
